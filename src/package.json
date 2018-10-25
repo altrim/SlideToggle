@@ -1,0 +1,16 @@
+{
+  "name": "slide-toggle",
+  "version": "1.0.0",
+  "description": "Simple slide toggle",
+  "keywords": [
+    "checkbox",
+    "toggle",
+    "slide toggle",
+    "on/off"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "react": "16.6.0",
+    "react-dom": "16.6.0"
+  }
+}
